@@ -1,7 +1,5 @@
 # MyFirstProject
 friendsproject
-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
-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
 
 
 https://github.com/Sivaprasad-Software/MyFirstProject.git
